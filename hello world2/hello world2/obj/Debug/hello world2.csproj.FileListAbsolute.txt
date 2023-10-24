@@ -1,0 +1,10 @@
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\bin\Debug\hello world2.exe.config
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\bin\Debug\hello world2.exe
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\bin\Debug\hello world2.pdb
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\obj\Debug\hello world2.csproj.AssemblyReference.cache
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\obj\Debug\hello_world2.Form1.resources
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\obj\Debug\hello_world2.Properties.Resources.resources
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\obj\Debug\hello world2.csproj.GenerateResource.cache
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\obj\Debug\hello world2.csproj.CoreCompileInputs.cache
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\obj\Debug\hello world2.exe
+C:\Users\reryel.nomota\source\repos\hello world2\hello world2\obj\Debug\hello world2.pdb
